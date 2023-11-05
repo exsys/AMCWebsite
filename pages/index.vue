@@ -38,6 +38,7 @@ html {
 body {
     color: white;
     background-color: #1F2732;
+    overflow-x: hidden;
 }
 
 .content {
