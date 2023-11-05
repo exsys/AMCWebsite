@@ -1,0 +1,134 @@
+{
+  "language": "Language",
+  "header": {
+    "home": "主頁",
+    "services": "服務",
+    "aboutUs": "關於我們",
+    "contactUs": "立即諮詢",
+    "callUsAt": "Call Us At",
+    "emailUs": "Email Us"
+  },
+  "footer": {
+    "quickLink": "快速鏈接",
+    "contactUsTitle": "聯繫我們",
+    "home": "主頁",
+    "services": "服務",
+    "aboutUs": "關於我們",
+    "contactUs": "立即諮詢",
+    "phone": "Phone",
+    "email": "Email",
+    "whatsapp": "Whatsapp",
+    "lineInquiry": "LINE Inquiry"
+  },
+  "index": {
+    "section1": {
+      "title": "Apex 移民諮詢",
+      "info": "專業的愛爾蘭移民諮詢公司提供個性化的服務，以滿足任何客戶的需求",
+      "explore": "發現更多"
+    },
+    "section2": {
+      "title": "我們的故事",
+      "info1": "Apex Migration Consulting Ltd 成立於 2020 年，位於愛爾蘭，致力於為我們的客戶提供一流的移民服務。我們是一支充滿熱情、稱職的專業團隊，擁有豐富的移民知識和經驗，可以幫助客戶實現他們的移民目標",
+      "info2": ""
+    },
+    "section3": {
+      "title": "我們的服務",
+      "infoCardTitle1": "文件準備",
+      "infoCardText1": "我們協助客戶準備申請文件，同時在整個準備過程中提供諮詢，輔助服務",
+      "infoCardTitle2": "提交申請",
+      "infoCardText2": "我們支持客戶提交申請文件，同時確保材料的完整性，準確性和及時性",
+      "infoCardTitle3": "面試輔導",
+      "infoCardText3": "我們的人員將對客戶進行面談，以評估最適合客戶的移民申請類型、資格和要求的方案。",
+      "infoCardTitle4": "移民諮詢",
+      "infoCardText4": "我們針對不同的移民選擇提供量身定制的專業意見和建議，例如留學、技術工人、家庭團聚等。",
+      "infoCardTitle5": "法律援助",
+      "infoCardText5": "我們的人員將根據客戶的特殊情況評估和回應客戶的詢問，並在必要時提供相應的法律建議。",
+      "infoCardTitle6": "著陸協助",
+      "infoCardText6": "我們的綜合服務包括機場接送，以及協助申請人處理簽證的專業支持"
+    },
+    "section4": {
+      "title": "聯繫我們"
+    }
+  },
+  "service": {
+    "section1": {
+      "title": "愛爾蘭移民"
+    },
+    "section2": {
+      "info1": "在英國脫離歐盟後，愛爾蘭成為移民機會的門戶，並且由於是歐盟內的母語為英語的國家，愛爾蘭作為歐盟與英國之間的穩固紐帶迅速引起了國內投資者的關注。",
+      "info2": "一個人的申請，全家都可以實現移民"
+    },
+    "section3": {
+      "title": "愛爾蘭公民優勢",
+      "info": "世界上最有價值的護照",
+      "infoCardTitle1": "欧盟金融中心",
+      "infoCardText1": "愛爾蘭擁有世界前 10 大科技巨頭中的 9 家，並擁有 600 家美國科技公司。 這為企業提供了在歐盟 5 億消費者市場中經營的自由",
+      "infoCardTitle2": "強大的護照",
+      "infoCardText2": "可以免簽進入全球 189 個國家和地區，並可以自由在 32 個歐洲國家定居，可能性是無限的。 此外，美國眾議院通過了E-3輕鬆居留簽證法案，為美國輕鬆居留打開了新的大門",
+      "infoCardTitle3": "健康醫療體系",
+      "infoCardText3": "全家人可以享受同等的社會福利待遇，包括免費的公共醫療、教育、疫苗接種等等。 愛爾蘭的社會福利支出約佔政府支出的四分之一，福利確實非常出色",
+      "infoCardTitle4": "社會穩定",
+      "infoCardText4": "愛爾蘭是一個永久中立的國家，政治高度穩定，沒有敵人。 由於在全國范圍內禁止使用槍支，愛爾蘭被公認為世界上最安全、最友好的國家之一。"
+    },
+    "section4": {
+      "title": "素質教育",
+      "qualityEducation1": "教育體系世界排名第7",
+      "qualityEducation2": "世界上以英文教學的前 6 大英語母語國家之一",
+      "qualityEducation3": "免費義務教育，60%的人口接受高等教育",
+      "qualityEducation4": "全球高等教育機構總體排名前 5%",
+      "qualityEducation5": "大學畢業生在跨國公司中的受歡迎程度在歐洲排名第一",
+      "title2": "精英教育賽道",
+      "eliteEducation1": "5年內在愛爾蘭居住30個月，可以以較低的分數申請清華北大。",
+      "eliteEducation2": "愛爾蘭護照持有人可以將愛爾蘭 GCSE 帶到牛津和劍橋。",
+      "eliteEducation3": "愛爾蘭被牛津和劍橋錄取的學生比例是中國的 40 倍。"
+    },
+    "section5": {
+      "title": "公司所得稅",
+      "title2": "個人所得稅",
+      "info1": "愛爾蘭的企業稅率為12.5%，為歐洲最低，連續5年在歐洲徵稅便利度排名第一。",
+      "info2": "其獨特的稅收制度免除納稅居民對在愛爾蘭境外賺取的收入徵稅，除非將其匯回愛爾蘭。"
+    },
+    "section6": {
+      "title": "西歐發達國家——愛爾蘭",
+      "no1": "NO.1",
+      "no2": "NO.2",
+      "info1": "福布斯將愛爾蘭評為歐洲最適合經商的國家",
+      "info2": "匯豐銀行最新貿易信心調查顯示，愛爾蘭在歐洲的貿易信心中名列前茅",
+      "info3": "據 IBM 全球區域趨勢報告顯示，愛爾蘭連續 6 年吸引了來自世界各地的高價值項目投資",
+      "info4": "愛爾蘭人均GDP居世界第二，經濟年增長率超過5%，經濟蒸蒸日上。"
+    },
+    "section7": {
+      "title": "聯繫我們"
+    }
+  },
+  "contactForm": {
+    "fullName": "姓名",
+    "emailAddress": "郵箱",
+    "phoneNumber": "電話號碼",
+    "lineWeChatID": "Line/WeChat ID",
+    "leaveAMessage": "留言",
+    "submit": "提交"
+  },
+  "about": {
+    "title": "關於 A.M.C",
+    "info1": "Apex Migration Consulting Ltd. (A.M.C.) 是一家專業的移民諮詢公司，致力於為我們的客戶提供優質的移民服務。 我們的團隊由充滿激情、經驗豐富、熱情洋溢的專業人士組成，包括來自不同領域的專家和精英，組成了橫跨歐洲和亞洲的跨國團隊",
+    "info2": "利用我們在愛爾蘭的本地專業知識，我們提供量身定制的移民解決方案，以滿足每個客戶的獨特需求，確保他們的成功和滿意",
+    "info3": "我們的目標是成為移民諮詢行業的領導者，為我們的客戶提供無與倫比的服務和支持。 我們承諾始終以客戶的最佳利益行事，並相信他們的滿意是我們成功的關鍵",
+    "info4": "如果您需要移民諮詢服務，請隨時與我們聯繫。 我們致力於為您提供最優質的服務和支持，並為實現您的願望奠定堅實的基礎",
+    "infoCard": "“您通向世界的護照，讓我們幫助您通過移民開啟新的機遇。”"
+  },
+  "contactUs": {
+    "title": "聯繫我們",
+    "yourName": "姓名",
+    "yourEmail": "郵箱",
+    "yourPhoneNumber": "電話號碼",
+    "requestedService": "您需要什麼協助呢",
+    "yourMessage": "留言",
+    "sendMessage": "發送消息",
+    "callUsOn": "Call Us On",
+    "emailUs": "Email Us"
+  },
+  "message": {
+    "submitted": "表单提交成功！"
+  }
+}

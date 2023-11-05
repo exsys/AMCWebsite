@@ -1,0 +1,34 @@
+// dropdown
+$dropdown-min-width: 0;
+$dropdown-border-radius: 0;
+$dropdown-inner-border-radius: 0;
+$dropdown-bg: #1F2732;
+$dropdown-padding-y: 0;
+$dropdown-color: white;
+$dropdown-font-size: 22px;
+$dropdown-border-width: 0;
+
+// dropdown item
+$dropdown-item-padding-y: 0.5rem;
+$dropdown-item-padding-x: 0.5rem;
+$dropdown-link-color: white;
+$dropdown-link-hover-color: none;
+$dropdown-link-hover-bg: none;
+$dropdown-link-active-color: black;
+$dropdown-link-active-bg: white;
+
+// button
+$btn-border-radius: 0;
+$btn-border-radius-lg: 0;
+$btn-font-size: 22px;
+$btn-font-size-lg: 22px;
+$btn-border-width: 0;
+
+// navbar
+$navbar-padding-y: 1vh;
+$navbar-light-toggler-icon-bg: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='rgba(255,255,255,.75)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>");
+
+// border
+$border-color: #4E555F;
+
+@import "../node_modules/bootstrap/scss/bootstrap";

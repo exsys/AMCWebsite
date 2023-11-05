@@ -1,0 +1,134 @@
+{
+  "language": "Language",
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "callUsAt": "Call Us At",
+    "emailUs": "Email Us"
+  },
+  "footer": {
+    "quickLink": "Quick Link",
+    "contactUsTitle": "Contact Us",
+    "home": "Home",
+    "services": "Services",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "phone": "Phone",
+    "email": "Email",
+    "whatsapp": "Whatsapp",
+    "lineInquiry": "LINE Inquiry"
+  },
+  "index": {
+    "section1": {
+      "title": "Apex Migration Consulting",
+      "info": "Professional Ireland immigration consultancy providing personalized services tailored to satisfy any customer.",
+      "explore": "Explore"
+    },
+    "section2": {
+      "title": "Our Story",
+      "info1": "Apex Migration Consulting Ltd, established in 2020 and located in Ireland, is dedicated to delivering top-notch immigration services to our clients.",
+      "info2": "We are a team of passionate, competent professionals with vast immigration knowledge and experience to support clients in achieving their immigration goals."
+    },
+    "section3": {
+      "title": "Explore Our Service",
+      "infoCardTitle1": "Document Preparation",
+      "infoCardText1": "We assist clients in submitting application documents while maintaining completeness and accuracy of the materials throughout the application process.",
+      "infoCardTitle2": "Application Submission",
+      "infoCardText2": "We support clients in submitting application documents while ensuring the completeness and accuracy of the materials.",
+      "infoCardTitle3": "Interview Counselling",
+      "infoCardText3": "Our personnel will conduct client interviews to assess the best fit for the client's immigration application type, eligibility, and requirements.",
+      "infoCardTitle4": "Immigration Consulting",
+      "infoCardText4": "We provide tailored professional advice and recommendations on different immigration options, such as study, skilled worker, family reunification, and more.",
+      "infoCardTitle5": "Legal Assistance",
+      "infoCardText5": "Our personnel will assess and respond to client inquiries based on their unique circumstances, providing corresponding legal advice as necessary.",
+      "infoCardTitle6": "Landing Assistance",
+      "infoCardText6": "Our comprehensive services encompass airport pickup, as well as professional support in assisting applicants with visa processing"
+    },
+    "section4": {
+      "title": "Contact Us"
+    }
+  },
+  "service": {
+    "section1": {
+      "title": "Ireland Immigration"
+    },
+    "section2": {
+      "info1": "After UK's departure from the EU, Ireland has become a gateway for immigration opportunities and has rapidly captured domestic investors' attention as a robust link between the EU and the UK due to being a native English-speaking country within the EU.",
+      "info2": "With one person's application, the entire family can achieve immigration."
+    },
+    "section3": {
+      "title": "Ireland Citizenship Advantages",
+      "info": "The world's most valuable passport",
+      "infoCardTitle1": "EU Financial Centre",
+      "infoCardText1": "Ireland is home to nine of the world's top 10 tech giants and hosts 600 US tech companies. This provides businesses with the freedom to operate within the EU's 500 million consumer market.",
+      "infoCardTitle2": "Powerful Passport",
+      "infoCardText2": "With visa-free access to 189 countries and territories worldwide and the freedom to settle in 32 European countries, the possibilities are limitless. Furthermore, the E-3 Visa for Easy Residency in the United States Act has been passed by the House of Representatives, opening up new doors for easy residency in the US.",
+      "infoCardTitle3": "Health Care System",
+      "infoCardText3": "The whole family can enjoy the same social welfare benefits, including free public healthcare, education, vaccinations, and more. With Ireland's social welfare spending accounting for roughly a quarter of government expenditure, the benefits are truly exceptional.",
+      "infoCardTitle4": "Social Stability",
+      "infoCardText4": "Ireland is a permanently neutral country, enjoying a high degree of political stability with no enemies. With a nationwide ban on firearms, Ireland is recognized as one of the safest and friendliest countries in the world."
+    },
+    "section4": {
+      "title": "Quality Education",
+      "qualityEducation1": "Education system ranked No.7 in the world",
+      "qualityEducation2": "One of the top 6 native English-speaking countries in the world where English is taught",
+      "qualityEducation3": "Free and compulsory education, 60% of the population in higher education",
+      "qualityEducation4": "Top 5% of the world's higher education institutions overall",
+      "qualityEducation5": "No. 1 in Europe for the popularity of university graduates among multinational companies",
+      "title2": "Elite Education Track",
+      "eliteEducation1": "Living in Ireland for 30 months within 5 years allows you to apply to Tsinghua University and Peking University with lower scores.",
+      "eliteEducation2": "Irish passport holders can take the Irish GCSEs to Oxford and Cambridge.",
+      "eliteEducation3": "Ireland has 40 times more students admitted to Oxford and Cambridge compared to the proportion of graduates in China."
+    },
+    "section5": {
+      "title": "Corporate Income Tax",
+      "title2": "Personal Income Tax",
+      "info1": "Ireland's corporate tax rate is the lowest in Europe at 12.5% and has been ranked No.1 in Europe for ease of taxation for five consecutive years.",
+      "info2": "Its unique taxation system exempts tax residents from paying taxes on income earned outside of Ireland, unless it is remitted to Ireland."
+    },
+    "section6": {
+      "title": "Developed Country in Western Europe - Ireland",
+      "no1": "NO.1",
+      "no2": "NO.2",
+      "info1": "Forbes named Ireland the best country in Europe to do business",
+      "info2": "According to the latest HSBC Trade Confidence Survey, Ireland ranks high in trade confidence in Europe",
+      "info3": "For 6 consecutive years in a row, Ireland has attracted high-value project investment from around the world, as reported by the IBM Global Regional Trends Report",
+      "info4": "With a GDP per capita ranking second in the world and over 5% annual economic growth, Ireland boasts a thriving economy."
+    },
+    "section7": {
+      "title": "Contact Us"
+    }
+  },
+  "contactForm": {
+    "fullName": "Full Name",
+    "emailAddress": "Email Address",
+    "phoneNumber": "Phone Number",
+    "lineWeChatID": "Line/WeChat ID",
+    "leaveAMessage": "Leave a message",
+    "submit": "Submit"
+  },
+  "about": {
+    "title": "About A.M.C",
+    "info1": "Apex Migration Consulting Ltd. (A.M.C.) is a professional immigration consulting company committed to delivering superior quality immigration services to our clients. Our team comprises of passionate, experienced and enthusiastic professionals, including experts and elites from diverse fields, forming a transnational team spanning across Europe and Asia.",
+    "info2": "Leveraging our local expertise in Ireland, we provide customized immigration solutions tailored to meet the unique needs of each client, ensuring their success and satisfaction.",
+    "info3": "Our goal is to become the industry leader in immigration consulting, delivering unparalleled services and support to our clients. We pledge to always act in the best interests of our clients, and believe that their satisfaction is key to our success.",
+    "info4": "If you require immigration consulting services, please do not hesitate to contact us. We are committed to providing you top-quality services and support, and serving as a strong foundation for the realization of your aspirations.",
+    "infoCard": "\"Your passport to the world. Let us help you unlock new opportunities through immigration.\""
+  },
+  "contactUs": {
+    "title": "Contact Us",
+    "yourName": "Your Name",
+    "yourEmail": "Your Email",
+    "yourPhoneNumber": "Your Phone Number",
+    "requestedService": "Requested Service",
+    "yourMessage": "Your Message",
+    "sendMessage": "Send Message",
+    "callUsOn": "Call Us On",
+    "emailUs": "Email Us"
+  },
+  "message": {
+    "submitted": "The form was submitted successfully!"
+  }
+}
